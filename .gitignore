@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# playground (a place where to test demos)
+playground/
